@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "UseCaseDiagram1",
+					"name": "Casos de uso",
 					"ownedViews": [
 						{
 							"_type": "UMLUseCaseSubjectView",
@@ -6209,7 +6209,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "UseCaseDiagram2",
+					"name": "Atores identificados",
 					"ownedViews": [
 						{
 							"_type": "UMLActorView",
